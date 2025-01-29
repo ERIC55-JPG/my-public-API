@@ -4,4 +4,5 @@
 1. Clone the repository:    bash    git clone https://github.com/eric55-jpg/my-public-API.git    
 2. cd my-public-API
 3. node index.js
-
+after run add slash pretty to be displayed in form of html format
+https://localhost:3000/pretty
